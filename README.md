@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shxrkyy.wordpress.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg"/>]
+<img align="left" alt="shxrkyy.wordpress.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg"/>
 
 
 
