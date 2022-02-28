@@ -15,8 +15,11 @@
 <br />
 <img align="left" alt="dsc.gg/york" width="22px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"/>[Discord]
 
+<br />
 
+### Languages I know
 
+<img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/86849180/155905965-a2005500-f09b-43ee-bc48-1c9c554398b6.png"/>
 
 [shxrks]: https://github.com/shxrks
 [python]: https://user-images.githubusercontent.com/86849180/155905880-62f436c0-0ded-4513-b240-1a11c50d8d09.png
