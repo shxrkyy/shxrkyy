@@ -1,7 +1,7 @@
-### Hi there, I'm shxrkyy!
+### Hi there, I'm [shxrkyy]!
 
-## I am the owner of shxrks![shxrks]
-- 🦈 I am currently working on the shxrks[shxrks] repo's!
+## I am the owner of [shxrks]!
+- 🦈 I am currently working on the [shxrks] repo's!
 - 🌱 I am currently learning more advanced javascript methods!
 - 👫 I am looking to collaborate with people trying to develop school game hacks!
 - 🎉 My goals of 2022 are making usable school hacks for people!
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" />]
+[<img align="left" alt="shxrkyy.wordpress.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg"/>]
 
 
 
@@ -21,3 +21,4 @@
 [css]: https://user-images.githubusercontent.com/86849180/155905939-286f8b71-39ca-4c9e-8ca5-43c4f3937f37.png
 [js]: https://user-images.githubusercontent.com/86849180/155905965-a2005500-f09b-43ee-bc48-1c9c554398b6.png
 [node-js]: https://user-images.githubusercontent.com/86849180/155905983-a6066ab1-6469-4b31-8ca4-dc25699a6e89.png
+[shxrkyy]: https://shxrkyy.wordpress.com
