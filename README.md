@@ -10,9 +10,7 @@
 ### Connect with me:
 
 <img align="left" alt="shxrkyy.wordpress.com" width="22px" src="https://icon-library.com/images/white-globe-icon/white-globe-icon-24.jpg"/>[shxrkyy]
-<br />
 <img align="left" alt="github.com/shxrks" width="22px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>[shxrks]
-<br />
 <img align="left" alt="dsc.gg/york" width="22px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"/>[Discord]
 
 <br />
