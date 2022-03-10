@@ -15,7 +15,8 @@
 <br />
 <img align="left" alt="dsc.gg/york" width="22px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png"/>[Discord]
 <br />
-<img align="left" alt"" width="22px" src=""/>
+
+
 <br />
 
 ### Languages I know
