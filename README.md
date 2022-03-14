@@ -2,9 +2,9 @@
 
 ## I am the owner of [shxrks]!
 - 🦈 I am currently working on the [shxrks] repo's!
-- 🌱 I am currently learning more advanced javascript methods!
-- 👫 I am looking to collaborate with people trying to develop school game hacks!
-- 🎉 My goals of 2022 are making usable school hacks for people!
+- 🌱 I am currently learning on how to use more advanced C# functions!
+- 👫 I am looking to collaborate with people trying to develop game hacks / real hacks!
+- 🎉 My goals of 2022 are making usable hacks for people!
 - ⚡ Fun fact: I play the trombone!
 
 ### Connect with me:
