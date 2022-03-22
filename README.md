@@ -6,6 +6,7 @@
 - 👫 I am looking to collaborate with people trying to develop game hacks / real hacks!
 - 🎉 My goals of 2022 are making usable hacks for people!
 - ⚡ Fun fact: I play the trombone!
+- Im also known for fixing peoples profile readme files!
 
 ### Connect with me:
 
