@@ -3,8 +3,8 @@
 ## I am the owner of [shxrks]!
 - 🦈 I am currently working on my [shxrkdark vscode theme](https://github.com/shxrkyy/shxrkdark-vscode-theme)!
 - 🌱 I am currently learning on how to use more advanced C# functions!
-- 👫 I am looking to collaborate with people trying to develop game hacks / real hacks!
-- 🎉 My goals of 2022 are making usable hacks for people!
+- 👫 I am looking to collaborate with people trying to do the same things as I am!
+- 🎉 My goals of 2022 are building my coding skills!
 - ⚡ Fun fact: I play the trombone!
 - Im also known for fixing peoples profile readme files!
 
